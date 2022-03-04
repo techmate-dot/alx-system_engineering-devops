@@ -1,2 +1,2 @@
 #!/bin/bash
-if [stat -c %u $. = guillaume] then chown betty $.
+if [stat -c %u $. = guillaume]; then chown betty $.
