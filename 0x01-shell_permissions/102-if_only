@@ -1,0 +1,4 @@
+#!/bin/bash
+file = .
+if [stat -c %u $. = guillaume]
+then chown betty $.
