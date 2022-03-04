@@ -1,2 +1,2 @@
-if [stat -c %u $. = guillaume]
-then chown betty $.
+#!/bin/bash
+chown betty .
