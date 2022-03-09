@@ -1,2 +1,2 @@
 #!/bin/bash
-2>&1| tr ":" "\n" | uniq -u | wc -l
+find . -maxdepth -1 type d | wc -l
