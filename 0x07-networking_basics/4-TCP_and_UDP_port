@@ -1,0 +1,3 @@
+#!/bin/bash
+#program that show listening sockets and ports
+netstat -lp
