@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #resolve the ip address
-sudo sed -i -e 's|127.*host|127.0.0.2\tlocalhost|g' /etc/hosts
+#sudo sed -i -e 's|127.*host|127.0.0.2\tlocalhost|g' /etc/hosts
 echo -e "8.8.8.8\tfacebook.com" >> /etc/hosts
