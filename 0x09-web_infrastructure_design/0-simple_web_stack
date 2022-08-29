@@ -1,0 +1,23 @@
+Link to the diagram: https://imgur.com/RKMz5bq
+
+Explanation
+
+1. Server: A physical hard wear computer that runs a web server program and other programs
+
+2. Domain name: It is translated to the ip address of the server that host the web site
+
+3. An A record type
+
+4. A web server is a software that  uses http to serve web content to a client
+
+5. The application server is used to serve business logic
+
+6. A database help to store electronic data
+
+7. The server uses TCP/IP  to communicate to the client
+
+8. single point of failure (spof): If there is no redundancy available for an important component that is likely to fail, then the whole system could be affected if that component is affected
+
+9. Downtime when maintenance is needed will occur since there is no back up server available to temporarily host the site as maintenance is made .
+
+10. A singe web server will not be enough to handle large traffic

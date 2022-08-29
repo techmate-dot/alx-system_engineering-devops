@@ -1,0 +1,17 @@
+Link to the diagram: https://imgur.com/gXmoDNJ or https://imgur.com/a/0kJUVLe
+
+1. load balancer helps to distribute incoming traffic to all servers and a server was adde as a redundancy incase of failure and maintenance.
+
+2. round robin: Traffic is distribute sequentially one after the other
+
+3. It is enabling an active-active setup: in an active-active setup, all the servers are running at a time while for the active-passive setup only one server works at a time
+
+4. In Master-Slave cluster the the master data base store the log request and then sends it to the slave datbase which can be dine either synchronously or asynchronously
+
+5. Writes operation are carried out by the primary node while the read operation are carried out by the replica nodes 
+
+6. The single point of failure are area that could mae the whole system to to collapse if  they fail.
+
+7. Having no fire wall will mean that packets will not be monitored and not having to use HTTPS means that request will not be encrypted
+
+8. having no monitoring system means that the application and the server is not being checked in terms of performance.

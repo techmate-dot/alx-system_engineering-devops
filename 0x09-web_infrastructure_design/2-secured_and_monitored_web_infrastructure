@@ -1,0 +1,17 @@
+LINK to the diagram: https://imgur.com/JXpGLq7
+
+1. The firewall was added to check incomming and out going traffic while the monitoring systems was added to measure application and server performance
+
+2. The firewalls help helps monitor incomming and out going traffic
+
+3. It is served over HTTPS to ensure that request and respose are encrypted
+
+4. It measures how long it takes fore then webpage to load and check for database integrity
+
+5. It can be monitored using a query monitoring service
+
+6. q
+
+7. If the mysql fails then will be no fall back
+
+8. They are most likely to experience the same type of failure
